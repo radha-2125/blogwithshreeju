@@ -1,0 +1,16 @@
+body{background-color: rgba(104, 59, 177, 0.45);
+color: black;
+text-align: center;}
+
+ol{list-style-position: inside;
+font-size: 50px;
+text-align: left;}
+
+h1{font-size: 150px;
+color: rgba(70, 4, 94, 0.521);}
+p{text-align: center;
+color: rgb(255, 0, 183);
+}
+h3{background-color: rgb(177, 18, 116);
+text-align: center;}
+h1{color: rgb(0, 255, 123);}
